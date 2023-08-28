@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+:root {
+    --font-principal: 'Inter';
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana;
+}
+
+.container {
+    width: 1140px;
+    margin: auto;
+    max-width: 100%;
+}
+
+#nav {
+    background-color: burlywood;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
